@@ -1,2 +1,3 @@
-# vimrc
-setup for vim
+# rc
+.vimrc: setup for vim
+.tcshrc: setup for tcsh
