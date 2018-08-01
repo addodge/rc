@@ -1,0 +1,4 @@
+source /GIPSY_source/goa-6.4/rc_gipsy.csh
+alias fitfunc ~/gpsres.2017.05.17/bin/fitfunc.py
+set path = ($path /home/adodge/bin)
+cd /usr1/adodge/data/
