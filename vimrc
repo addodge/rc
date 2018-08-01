@@ -1,3 +1,4 @@
+# Add line numbers
 set number
 set autoread
 set smarttab
